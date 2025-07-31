@@ -38,7 +38,7 @@ By taking this approach, the team combined classical and quantum AI methodologie
 ---
 
 ### 2. Classical Model Development
-*Responsible Team Member: Nada*  
+*Responsible Team Member:*  
 
 ---
 
@@ -68,7 +68,7 @@ Results are combined with classical molecular geometry optimization to construct
 #### 3. Workflow
 1. Generate molecular coordinates for SO₃ + nH₂O clusters (optimized classically).  
 2. Compute ground-state energy of reactants and products with VQE.  
-3. Calculate ΔE = E_products – E_reactants for each step of the pathway.  
+3. Calculate ΔE = E_{products} – E_{reactants} for each step of the pathway.  
 4. Feed ΔE into a classical kinetic model to estimate reaction probabilities.
 
 ---
