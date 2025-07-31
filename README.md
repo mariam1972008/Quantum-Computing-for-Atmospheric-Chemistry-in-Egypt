@@ -151,7 +151,10 @@ folders.]
  cify how to install dependencies and access datasets.]
  # -------------------------------------
 # Results and Visualizations
- # -------------------------------------
+ Quantum solution
+<p align="center">
+  <img src="./quantum solution.png" width="500"/>
+</p>
 #
  # Placeholder: Summarize key results for classical and quantum models, refe
  rencing outputs in classical_model/eval/results/ and quantum_model/eval/res
