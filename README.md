@@ -111,10 +111,10 @@ Using Qiskit simulator and Hartee Fock solver for classical solution.
 ---
 
 ## Challenges and Solutions
-Placeholder: Discuss challenges (e.g., quantum hardware limitations, data compatibility, classical-quantum integration) and solutions implemented by the team.
+The biggest challenge is quantum hardware limitations, we handled it by reduce the number of electrons and orditals in the simulator.
 
 ---
 
 ## Future Improvements
-Placeholder: Suggest future enhancements, such as optimizing quantum circuits, exploring hybrid models, or scaling to larger datasets.
+Use FCI solver instead of Hartree Fock solver because it is more accurate.
  
