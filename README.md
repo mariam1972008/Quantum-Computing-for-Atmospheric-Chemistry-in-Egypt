@@ -85,7 +85,47 @@ any quantum-specific data transformations.]
 and any challenges faced. Reference drafts in classical_model/drafts/.]
  # 3. Quantum Model Development
  # Responsible Team Member: Mariam Khaled
- I use V
+ This project uses a hybrid quantum-classical model to simulate the reaction pathway for:
+
+\text{SO₃ + nH₂O → H₂SO₄ (n = 1–3)}
+
+1. Purpose of the Quantum Model
+
+Compute reaction pathway energy surfaces (PES) using quantum methods.
+
+Calculate ΔE (reaction energy differences) for each cluster size .
+
+Map these quantum results to reaction rate predictions and aerosol nucleation probabilities.
+
+
+2. Quantum Methods
+
+VQE (Variational Quantum Eigensolver) was used to compute the ground state electronic energy of each molecular configuration.
+
+Qiskit Nature was used to:
+
+Generate the electronic structure problem from molecular coordinates.
+
+Map fermionic Hamiltonians to qubit Hamiltonians (Jordan–Wigner mapping).
+
+Optimize the variational circuit to get the lowest energy.
+
+
+Results are combined with classical molecular geometry optimization to construct the PES.
+
+
+3. Workflow
+
+1. Generate molecular coordinates for SO₃ + nH₂O clusters (optimized classically).
+
+
+2. Compute ground-state energy of reactants and products with VQE.
+
+
+3. Calculate ΔE = E_products – E_reactants for each step of the pathway.
+
+
+4. Feed ΔE into a classical kinetic model to estimate reaction probabilities.
  s/.]
  # 4. Model Evaluation
  # Responsible Team Member: EzzEldin Khaled
