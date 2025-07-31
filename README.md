@@ -153,7 +153,7 @@ folders.]
 # Results and Visualizations
  Quantum solution
 <p align="center">
-  <img src="./quantum solution.png" width="500"/>
+  <img src="./Quantum result.png" width="500"/>
 </p>
 #
  # Placeholder: Summarize key results for classical and quantum models, refe
