@@ -87,7 +87,7 @@ and any challenges faced. Reference drafts in classical_model/drafts/.]
  # Responsible Team Member: Mariam Khaled
  This project uses a hybrid quantum-classical model to simulate the reaction pathway for:
 
-\text{SO₃ + nH₂O → H₂SO₄ (n = 1–3)}
+SO₃ + nH₂O → H₂SO₄ (n = 1–3)
 
 1. Purpose of the Quantum Model
 
