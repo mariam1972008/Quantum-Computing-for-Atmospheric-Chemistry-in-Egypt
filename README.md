@@ -144,7 +144,7 @@ folders.]
  
 # -------------------------------------
 # How to Run the Project
- # -------------------------------------
+ Using Qiskit simulator
 #
  # Placeholder: Provide instructions to set up and run the project, including ex
  ecuting preprocessing, classical/quantum training, and evaluation scripts. Spe
