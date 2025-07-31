@@ -160,10 +160,10 @@ folders.]
 </p>
 ##classical results
 <p align="center">
-  <img src="./Classical result.png" width="500"/>
+  <img src="./classic result.png" width="500"/>
 </p>
 <p align="center">
-  <img src="./Classical result 2.png" width="500"/>
+  <img src="./classic result 2.png" width="500"/>
 </p>
 #
  # Placeholder: Summarize key results for classical and quantum models, refe
