@@ -33,7 +33,9 @@ By taking this approach, the team combined classical and quantum AI methodologie
 ## Step-by-Step Explanation
 
 ### 1. Data Preprocessing
-*Responsible Team Member: Nada Mohamed*  
+*Responsible Team Member: Nada Mohamed*
+
+Researched the topic and determined the required equations in coordination with the developer.
 
 ---
 
