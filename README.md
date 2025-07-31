@@ -47,9 +47,9 @@ By taking this approach, the team combined classical and quantum AI methodologie
 
 This project uses a hybrid quantum-classical model to simulate the reaction pathway for:
 
-\[
+$$
 SO_3 + nH_2O \rightarrow H_2SO_4 \quad (n = 1–3)
-\]
+$$
 
 #### 1. Purpose of the Quantum Model
 - Compute reaction pathway energy surfaces (PES) using quantum methods.  
