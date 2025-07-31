@@ -10,7 +10,7 @@ This project was submitted for the *Quantum AI Hackathon* by *team-2-atmospheric
 | Name             | Role in Project             |
 |------------------|-----------------------------|
 | Mariam Khaled    | Model Development           |
-| EzzEldin Khaled  | Evaluation and Reporting    |
+| EzzEldin Khaled  | Project Coordinator    |
 | Nada Mohamed     | Data Preprocessing          |
 
 ---
@@ -73,10 +73,20 @@ Results are combined with classical molecular geometry optimization to construct
 
 ---
 
-### 4. Model Evaluation
+### 4. Project Coordinator
 *Responsible Team Member: EzzEldin Khaled*  
 
-I played an active role in this project to combat Nile pollution. I ensured that all instructions and feedback from our supervisors were followed precisely. My responsibilities included preparing the project's presentation, managing the team, and attending lectures and workshops to make sure we were always up-to-date with the latest information and recommendations. My main goal was to ensure the work proceeded smoothly and that we achieved the best possible results.
+Contributions to the project's success were made through several key tasks, including:
+
+Presentation Development: Responsibility for creating the project's presentation to effectively communicate the team's findings.
+
+Workflow Coordination: Assistance in coordinating team efforts to ensure a smooth and efficient workflow.
+
+Guidance and Feedback Implementation: Meticulous implementation of all instructions and feedback provided by supervisors.
+
+Knowledge Development: Attendance at relevant lectures and workshops to stay updated on the latest information and recommendations, which helped keep the team informed.
+
+These contributions were essential for achieving the project's goals.
 
 ---
 
