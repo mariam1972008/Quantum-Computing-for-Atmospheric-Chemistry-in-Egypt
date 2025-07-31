@@ -85,9 +85,7 @@ Placeholder: List required software (e.g., Python, Jupyter, Qiskit, TensorFlow) 
 ---
 
 ## How to Run the Project
-
-*Using Qiskit simulator*  
-Placeholder: Provide instructions to set up and run the project, including executing preprocessing, classical/quantum training, and evaluation scripts. Specify how to install dependencies and access datasets.
+Using Qiskit simulator and Hartee Fock solver for classical solution.  
 
 ---
 
