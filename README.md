@@ -79,7 +79,7 @@ By taking this approach, the team combined classical and quantum AI methodologie
 engineering, and preparation for both classical and quantum models. Highlight 
 any quantum-specific data transformations.]
  # 2. Classical Model Development
- # Responsible Team Member: Mariam Khaled
+ # Responsible Team Member: Nada
  # Placeholder: Describe the classical model(s) developed, including algorith
  ms, frameworks, and training process. Explain why these models were chosen 
 and any challenges faced. Reference drafts in classical_model/drafts/.]
