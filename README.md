@@ -158,7 +158,7 @@ folders.]
 <p align="center">
   <img src="./Quantum result 2.png" width="500"/>
 </p>
-## classical results
+ ## Classical results
 <p align="center">
   <img src="./Classic result.png" width="500"/>
 </p>
