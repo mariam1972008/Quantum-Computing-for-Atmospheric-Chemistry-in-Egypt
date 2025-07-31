@@ -74,23 +74,23 @@ By taking this approach, the team combined classical and quantum AI methodologie
  
 # -------------------------------------
 # 1. Data Preprocessing
- # Responsible Team Member: Abdulrahman Elbanna
+ # Responsible Team Member: Nada Mohamed
  # Placeholder: Explain data preprocessing steps, including cleaning, feature 
 engineering, and preparation for both classical and quantum models. Highlight 
 any quantum-specific data transformations.]
  # 2. Classical Model Development
- # Responsible Team Member: Amina Mahmoud
+ # Responsible Team Member: Mariam Khaled
  # Placeholder: Describe the classical model(s) developed, including algorith
  ms, frameworks, and training process. Explain why these models were chosen 
 and any challenges faced. Reference drafts in classical_model/drafts/.]
  # 3. Quantum Model Development
- # Responsible Team Member: Amina Mahmoud
+ # Responsible Team Member: Mariam Khaled
  # Placeholder: Detail the quantum model(s) developed, including quantum fra
  meworks (e.g., Qiskit, PennyLane), circuit design, and training process. Explai
  n the quantum advantage sought. Reference drafts in quantum_model/draft
  s/.]
  # 4. Model Evaluation
- # Responsible Team Member: Omar Khaled
+ # Responsible Team Member: EzzEldin Khaled
  # Placeholder: Describe evaluation for both classical and quantum models, in
  cluding metrics (e.g., accuracy, quantum circuit fidelity), visualizations in eval/
  results/, and performance comparisons. Reference draft evaluations in drafts/ 
