@@ -38,7 +38,8 @@ By taking this approach, the team combined classical and quantum AI methodologie
 ---
 
 ### 2. Classical Model Development
-*Responsible Team Member:*  
+*Responsible Team Member:* Mariam Khaled
+The classical model optimizes the geometries of SO₃ + nH₂O → H₂SO₄ clusters (n = 1–3) and computes their reaction pathway energy surfaces using classical methods HF. It then predicts reaction rates at 60–100% relative humidity using models like TST.
 
 ---
 
