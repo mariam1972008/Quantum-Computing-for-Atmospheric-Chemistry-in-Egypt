@@ -85,9 +85,7 @@ any quantum-specific data transformations.]
 and any challenges faced. Reference drafts in classical_model/drafts/.]
  # 3. Quantum Model Development
  # Responsible Team Member: Mariam Khaled
- # Placeholder: Detail the quantum model(s) developed, including quantum fra
- meworks (e.g., Qiskit, PennyLane), circuit design, and training process. Explai
- n the quantum advantage sought. Reference drafts in quantum_model/draft
+ I use V
  s/.]
  # 4. Model Evaluation
  # Responsible Team Member: EzzEldin Khaled
