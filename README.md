@@ -76,6 +76,7 @@ Results are combined with classical molecular geometry optimization to construct
 ### 4. Model Evaluation
 *Responsible Team Member: EzzEldin Khaled*  
 
+I played an active role in this project to combat Nile pollution. I ensured that all instructions and feedback from our supervisors were followed precisely. My responsibilities included preparing the project's presentation, managing the team, and attending lectures and workshops to make sure we were always up-to-date with the latest information and recommendations. My main goal was to ensure the work proceeded smoothly and that we achieved the best possible results.
 
 ---
 
